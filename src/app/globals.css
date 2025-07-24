@@ -47,15 +47,6 @@ code {
   color: black;
 }
 
-/* Custom Markdown Styling */
-
-.custom-blockquote {
-  background: #f9f9f9;
-  border-style: none none none solid;
-  padding-left: 1rem;
-  border-width: .25rem;
-}
-
 /* When going to a medium sized screen and up */
 @media (min-width: 768px) {
   .intro-paragraph {
@@ -65,6 +56,15 @@ code {
     width: 20rem;
     height: 30rem;
   }
+}
+
+/* Custom Markdown Styling */
+
+.custom-blockquote {
+  background: #f9f9f9;
+  border-style: none none none solid;
+  padding-left: 1rem;
+  border-width: .25rem;
 }
 
 /* Listings */
@@ -90,4 +90,12 @@ code {
   align-items: center;
   font-size: 14px;
   color: #888;
+}
+
+/* Markdown Content */
+
+.markdown-content img {
+  width: 100%;
+  border-radius: 4px;
+  object-fit: cover;
 }
