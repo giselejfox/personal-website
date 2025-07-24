@@ -1,3 +1,9 @@
+---
+title: "Intentional Design in Museums Connecting Past to Present"
+date: "2022-06-28"
+tags:
+  - Amsterdam Study Abroad
+---
 
 # Intentional Design in Museums Connecting Past to Present
 *2022-06-28*

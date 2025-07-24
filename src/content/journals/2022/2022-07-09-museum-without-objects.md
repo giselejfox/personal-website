@@ -1,4 +1,9 @@
-
+---
+title: "What Would a Museum look like without Objects?"
+date: "2022-07-09"
+tags:
+  - Amsterdam Study Abroad
+---
 
 
 # What Would a Museum look like without Objects?

@@ -1,3 +1,10 @@
+---
+title: "Off to a Running Start"
+date: "2022-06-20"
+tags:
+  - Amsterdam Study Abroad
+---
+
 # Off to a Running Start
 *2022-06-20*
 

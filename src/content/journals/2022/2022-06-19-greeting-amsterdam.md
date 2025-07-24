@@ -1,3 +1,10 @@
+---
+title: "Greeting Amsterdam"
+date: "2022-06-19"
+tags:
+  - Amsterdam Study Abroad
+---
+
 # Greeting Amsterdam
 *2022-06-19*
 

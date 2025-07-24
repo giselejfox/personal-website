@@ -1,3 +1,9 @@
+---
+title: "OBA - Where the Library is High Value"
+date: "2022-06-30"
+tags:
+  - Amsterdam Study Abroad
+---
 
 # OBA - Where the Library is High Value
 *2022-06-30*

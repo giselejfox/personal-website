@@ -1,3 +1,10 @@
+---
+title: "Amsterdam Study Abroad Reflection"
+date: "2022-07-13"
+tags:
+  - Amsterdam Study Abroad
+---
+
 # Reflection
 *2022-07-13*
 
