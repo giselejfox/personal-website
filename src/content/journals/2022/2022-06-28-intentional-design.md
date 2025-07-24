@@ -5,9 +5,6 @@ tags:
   - Amsterdam Study Abroad
 ---
 
-# Intentional Design in Museums Connecting Past to Present
-*2022-06-28*
-
 The first day of our program we sat down in the breakfast nook of our hotel to discuss what were seemingly simple questions: what is a museum, what is a library, and what is an archive.
 
 My group was assigned the museum question and we came up with a couple boundaries for what defines a museum. In general it's more public than an archive, a place that can usually only be accessed by professionals in the field, and more private than a library since people can't take the items on display home. We figured a museum is a curated portion of a larger collection and it's meant to be viewed by the public. It usually hosues physical objects and is designed in a way to be an informative and educational experience for the observer. 

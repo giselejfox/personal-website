@@ -5,9 +5,6 @@ tags:
   - Amsterdam Study Abroad
 ---
 
-# Off to a Running Start
-*2022-06-20*
-
 ![The view from a 6am run](/img/journal/amsterdamArchive/run-view.JPG)
 
 I got up the first day of the program at 5:30 and decided to call it a start. I ended up going for a run and because Amsterdam is so north it was broad daylight at 6:00am and completely empty, I got the city to myself! It was such a beautiful treat to be able to zip past all the amazing architecture and the hug the canals while downloading the google maps of the area to my noggin.

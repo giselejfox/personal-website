@@ -5,9 +5,6 @@ tags:
   - Amsterdam Study Abroad
 ---
 
-# Reflection
-*2022-07-13*
-
 For my reflection project I chose to write limericks and accompany them with little pieces of art. 
 
 It was an absolute joy to reflect on my time and come up with all the rhymes. For the best effect I'd reccomend to **read them out loud**!

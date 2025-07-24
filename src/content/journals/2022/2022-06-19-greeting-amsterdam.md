@@ -5,9 +5,6 @@ tags:
   - Amsterdam Study Abroad
 ---
 
-# Greeting Amsterdam
-*2022-06-19*
-
 ![View from my writing perch in Sarphatipark](/img/journal/amsterdamArchive/park-view.JPG)
 
 The first day in Amsterdam was a rough one. I took the overnight flight straight from Seattle which left Saturday the 18th at 1ish and arrived to Amsterdam the next day at 8am. That means that I should have slept the whole way to set my body on the right path but there was little to no sleep on the flight. However, some excitement did result from what would be an otherwise cramped and tiring experince. I ended up talking to the guy I sat next to on the flight! We started by doing a cross word together before the plane took off and chatting the whole last two hours. Shoutout to the wonderful conversationalist Michael from Issaquah! 

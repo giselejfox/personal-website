@@ -5,10 +5,6 @@ tags:
   - Amsterdam Study Abroad
 ---
 
-
-# Notes on Community Building
-*2022-07-13*
-
 Throughout this program our 25 student group has been an absolute dream. We're a mix of masters and bachelor students ranging from ages 19-32 and everyone has been a unique and valuable contribution to our dynamic as a whole. Whenever even one person is out of the mix the dynamic always shifts somehow.
 
 Here are some of my favorite things I've noticed that have helped people come together and meld the way we have. A mix of things I've tried myself and that other have done to help get us to where we are now, right at the end of the program.

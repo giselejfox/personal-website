@@ -1,6 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { remark } from 'remark';
+import html from 'remark-html';
 
 export function getSortedPostsData(typeOfPost) {
   const postsDirectory = path.join(process.cwd(), 'src/content', typeOfPost);
@@ -24,7 +26,8 @@ export function getSortedPostsData(typeOfPost) {
         const slug = fullPath
           .replace(postsDirectory + path.sep, '') // remove base dir
           .replace(/\.md$/, '')                  // remove .md
-          .replace(/\\/g, '/');                  // ensure POSIX paths
+          .replace(/\\/g, '/')
+          .slice(5);                  // ensure POSIX paths
 
         entries.push({ slug, ...data });
       }
@@ -37,9 +40,9 @@ export function getSortedPostsData(typeOfPost) {
 }
 
 
-export async function getPostData() {
+export async function getPostData(typeOfPost, slug) {
   const postsDirectory = path.join(process.cwd(), 'src/content', typeOfPost);
-  const fullPath = path.join(postsDirectory, `${slug}.md`);
+  const fullPath = path.join(postsDirectory, `${slug.slice(0, 4)}/${slug}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
 
   const { data, content } = matter(fileContents);

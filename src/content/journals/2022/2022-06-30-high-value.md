@@ -5,9 +5,6 @@ tags:
   - Amsterdam Study Abroad
 ---
 
-# OBA - Where the Library is High Value
-*2022-06-30*
-
 Today my mind was absolutely blown away by OBA Oosterdok, the main central Amsterdam library located towards the north of the city. We spent a couple hours there hearing about the new projects they were implementing, how they get their funding, and then taking tours around different parts of their facility.
 
 ## Everything was designed to market a high value product: the books

@@ -5,10 +5,6 @@ tags:
   - Amsterdam Study Abroad
 ---
 
-
-# What Would a Museum look like without Objects?
-*2022-07-09*
-
 Over the course of the last week we went to 2 different ethnographic museums, the Museum Vulkenkunde in Leiden and the Tropen Museum in Amsterdam. The conversations that we had afterwards brought up questions of cultural object restitution and whether or not we should have ethnographic museums in general anymore. Below I'll discuss some of the differences I've noticed between the two and the effects each had on us as viewers.
 
 > **Ethnography:** the scientific description of peoples and cultures with their customs, habits, and mutual differences. - Oxford Languages
