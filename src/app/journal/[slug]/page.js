@@ -17,10 +17,14 @@ export default async function PostPage({ params }) {
   }
 
   return (
-    <div>
-      <h1>{post.title}</h1>
-      <div>{post.date}</div>
-      <article dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
+    <div className='container mb-5'>
+        <div className='row'>
+            <div className='col-lg-8'>
+                <h1>{post.title}</h1>
+                <div>{post.date}</div>
+                <article dangerouslySetInnerHTML={{ __html: post.contentHtml }} />
+            </div>
+        </div>
     </div>
   );
 }
