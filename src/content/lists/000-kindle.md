@@ -1,7 +1,17 @@
 # Highlights from My Kindle
-What continues to stand out to me even now.
 
---- 
+## 2025
+
+### Nomadland, Julia Brunner
+
+> The economy is a game. This game should be about non-essential things (motorcycles, computers, televisions). A person feeding their family, staying alive, having shelter... that should not be subject to a economy. - Statement on Michael Reynolds website
+
+> Workampers are plug-and-play labor, the epitome of convinience for employers in search of seasonal staffing. They appear when they are needed. They bring their own homes, transforming trailer parks into ephemeral company towns that empty out once their jobs are gone. They aren't around long enough to unionize. On jobs that are physically difficult, many are too tired eeven to socialize after their shifts.
+
+> "One of the depressing parts was I knew all this stuff was going to end up in the landfill." That part demoralized her. "You think about all the reosurces it took to get it there." She mused. "And then it's 'Use it up. Throw it away.'" - One of the workampers musing on what it's like to work in an Amazon warehouse.
+
+> Sameer and LaVonne were not naive. They knew that, in the eyes of the law, they are homeless. But who can live under the weight of that work? The term 'homeless' has metastasized beyond it's legal definition, becoming a terrible threat.
+
 
 ## 2024
 
