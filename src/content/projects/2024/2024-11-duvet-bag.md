@@ -1,8 +1,16 @@
-# Upcycling an old duvet cover into a chic new bag
+---
+title: "Knit bag from old duvet cover"
+date: "2024"
+tags:
+  - craft
+  - fiber
+  - knitting
+published: true
+img: 2024-duvet-bag/duvet-bag.png
+---
 
 ## info
 **Pattern**: [Rows Helix Bag](https://www.rowsknitwear.com/product-page/helix-bag-knitting-pattern)
-
 
 ## process
 I recently got new duvet covers -- one of the many marks of moving into adulthood. Not wanting to let go of my old duvet cover I've had since 8th grade I decided to turn it into a bag so it can have a new life while still being close to me.
@@ -11,4 +19,4 @@ I started by using the small ridges on my duvet cover as a guide for ripping a l
 
 ------
 
-![A white woven bag held against a white background and someone carrying the bag on their shoulder](img/journal/duvetBag/duvet-bag.png)
+![A white woven bag held against a white background and someone carrying the bag on their shoulder](img/projects/2024-duvet-bag/duvet-bag-collage.png)

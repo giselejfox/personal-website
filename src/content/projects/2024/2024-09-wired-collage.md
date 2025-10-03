@@ -1,4 +1,13 @@
-# Wall art made from old Wired Magazines
+---
+title: "Wall art made from old Wired Magazines"
+date: "2024"
+tags:
+  - craft
+  - paper
+  - collage
+published: true
+img: 2024-wired-collage/wired-collage.png
+---
 
 ## inspiration
 
@@ -6,17 +15,17 @@ On Pinterest I started getting drawn to posters of somewhat ambiguous colorful b
 
 I make my mom give me all her wired magazines because I love using their pages for collaging. Usually I just cut out the parts that are a single block of color but I had been leaving behind all the rest. The graphics are gorgeous, I even have one of the pages framed as art in my hallway because it's just that easy to appreciate.
 
-![two posters of ambiguous blobs](img/creations/09-24-wired-collage/wired-inspo.png)
+![two posters of ambiguous blobs](img/projects/2024-wired-collage/wired-inspo.png)
 
 ## process 
 
 I picked up this frame and art off the side of the road a couple weeks back because I liked the size of the frame. Finally I sat down to transform it by taking the cardstock out of the frame and simply turning it around for a blank canvas. The rest was easy, just outline different sized circles on the colorful wired pages and watch my new piece of wall art come to life.
 
-![frame of birds](img/creations/09-24-wired-collage/start-collage.png)
-![cut out circle](img/creations/09-24-wired-collage/circle-collage.PNG)
-![mid collage](img/creations/09-24-wired-collage/mid-collage.jpg)
-![gluing circles](img/creations/09-24-wired-collage/glue.jpg)
-![finished collage](img/creations/09-24-wired-collage/finish-collage.png)
+![frame of birds](img/projects/2024-wired-collage/start-collage.png)
+![cut out circle](img/projects/2024-wired-collage/circle-collage.PNG)
+![mid collage](img/projects/2024-wired-collage/mid-collage.jpg)
+![gluing circles](img/projects/2024-wired-collage/glue.jpg)
+![finished collage](img/projects/2024-wired-collage/finish-collage.png)
 
 
 

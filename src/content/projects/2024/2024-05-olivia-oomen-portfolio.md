@@ -5,7 +5,7 @@ tags:
   - coding
   - react
 published: true
-img: olivia-oomen-website/olivia-oomen.jpeg
+img: 2024-olivia-oomen-website/olivia-oomen.jpeg
 ---
 
 [Live Site](https://oliviaoomen.com/) | [Github](https://github.com/giselejfox/olivia-website)
@@ -14,7 +14,7 @@ img: olivia-oomen-website/olivia-oomen.jpeg
 
 **Technolgoies**: React, React Router, Matter.js, JavaScript, HTML, CSS
 
-![playful homepage with brightly colored items overlapping text reading Olivia Oomen](img/creations/olivia-oomen-website/homepage.png)
+![playful homepage with brightly colored items overlapping text reading Olivia Oomen](img/projects/2024-olivia-oomen-website/homepage.png)
 
 
 ## Features:

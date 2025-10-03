@@ -4,7 +4,7 @@ date: "2024"
 tags:
   - fiber
 published: true
-img: heart-sweater/heart-sweater.png
+img: 2024-heart-sweater/heart-sweater.png
 ---
 
 ## info
