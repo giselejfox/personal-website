@@ -1,4 +1,12 @@
-# Industrial Design Interactive Online Portfolio
+---
+title: "Interactive Industrial Design Portfolio"
+date: "2024"
+tags:
+  - coding
+  - react
+published: true
+img: olivia-oomen-website/olivia-oomen.jpeg
+---
 
 [Live Site](https://oliviaoomen.com/) | [Github](https://github.com/giselejfox/olivia-website)
 

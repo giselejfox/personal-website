@@ -21,7 +21,7 @@ export function getSortedPostsData(typeOfPost) {
       } else if (item.endsWith('.md')) {
         const fileContents = fs.readFileSync(fullPath, 'utf8');
         const { data } = matter(fileContents);
-        console.log(data);
+        // console.log(data);
 
         const slug = fullPath
           .replace(postsDirectory + path.sep, '') // remove base dir
@@ -42,7 +42,9 @@ export function getSortedPostsData(typeOfPost) {
 
 export async function getPostData(typeOfPost, slug) {
   const postsDirectory = path.join(process.cwd(), 'src/content', typeOfPost);
-  const fullPath = path.join(postsDirectory, `${slug.slice(0, 4)}/${slug}.md`);
+
+  // If it's a journal or project then we need to add the year to the slug
+  const fullPath = typeOfPost === "lists" ? path.join(postsDirectory, `/${slug}.md`) : path.join(postsDirectory, `${slug.slice(0, 4)}/${slug}.md`)
   const fileContents = fs.readFileSync(fullPath, 'utf8');
 
   const { data, content } = matter(fileContents);

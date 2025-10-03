@@ -1,4 +1,6 @@
-# Highlights from My Kindle
+# Book Quotes
+
+---
 
 ## 2025
 
@@ -12,6 +14,7 @@
 
 > Sameer and LaVonne were not naive. They knew that, in the eyes of the law, they are homeless. But who can live under the weight of that work? The term 'homeless' has metastasized beyond it's legal definition, becoming a terrible threat.
 
+---
 
 ## 2024
 
